@@ -8,6 +8,8 @@ public class Myclass {
 		System.out.println("sss");
 		System.out.println("first one");
 		System.out.println("sasasasaassaassa");
+		int t=0;
+		int j=0;
 	}
 
 }
