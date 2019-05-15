@@ -7,6 +7,7 @@ public class Myclass {
 
 		System.out.println("sss");
 		System.out.println("first one");
+		System.out.println("sasasasaassaassa");
 	}
 
 }
